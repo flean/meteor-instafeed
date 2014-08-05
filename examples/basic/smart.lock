@@ -1,0 +1,21 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "instafeed": {
+        "path": "../.."
+      },
+      "jade": {}
+    },
+    "packages": {
+      "instafeed": {
+        "path": "../.."
+      },
+      "jade": {
+        "git": "https://github.com/mquandalle/meteor-jade.git",
+        "tag": "v0.2.6",
+        "commit": "ab1edd68dccae6f5e946d9a84547043816d57864"
+      }
+    }
+  }
+}
