@@ -1,0 +1,8 @@
+{
+	"name": "instafeed",
+	"description": "Instafeed is a dead-simple way to add Instagram photos to your website. No jQuery required, just good 'ol plain javascript by stevenschobert.",
+	"homepage": "https://github.com/flean/meteor-instafeed",
+	"author": "Reynaldo Reyna",
+	"version": "1.3.2",
+	"git": "https://github.com/flean/meteor-instafeed.git"
+}
