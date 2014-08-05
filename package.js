@@ -4,7 +4,5 @@ Package.describe({
 
 Package.on_use(function (api, where) {
 	api.use('jquery', 'client');
-	api.add_files([
-		'js/instafeed.js',
-	],'client');
+	api.add_files('js/instafeed.js','client');
 })
